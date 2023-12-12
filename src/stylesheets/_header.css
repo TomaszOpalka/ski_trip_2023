@@ -1,0 +1,106 @@
+.ski_container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../assets/ski-img3.jpg');
+    height: 850px;
+    background-size: cover;
+    background-position: 50% 2%;
+    color: white;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 1);
+}
+.hero{
+    background-image: url('../assets/ski-img4.jpg');
+    height: 850px;
+    background-size: cover;
+    color: #ff006e;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px ;
+}
+.hero ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hero li {
+    margin-bottom: 8px;
+    font-size: 1.2em;
+  }
+  
+  .plan{
+    background-image: url('../assets/ski-img5.jpg');
+    height: 850px;
+    background-size: cover;
+    color: #03045e;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .plan-small{
+    background-color: #caf0f8da;
+    border-radius: 20px;
+    padding: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.space-btn{
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ff006e;
+    border: #ffea00;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    cursor: pointer;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}
+.comments{
+    display: flex;
+    justify-content: center;
+    height: 800px;
+    background-color: #caf0f8;
+
+}
+.com-li{
+    width: 400px;
+    min-height: 100px;
+    background-color: white;
+    border: 2px solid #03045e;
+    margin: 5px auto;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+
+}
+.com-input{
+    margin: 0 auto;
+}
