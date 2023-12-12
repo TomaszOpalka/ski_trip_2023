@@ -112,10 +112,12 @@
     height: auto;
     display: block;
     position: absolute;
-    background-color: #fff;
+    background-color: #000000c7;
     padding: 10px;
     border: 1px solid #000;
     z-index: 1;
+    left: 35%;
+    top: 129%;
   }
   
 
