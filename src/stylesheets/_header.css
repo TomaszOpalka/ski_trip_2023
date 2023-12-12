@@ -105,6 +105,7 @@
 .com-input{
     margin: 0 auto;
 }
+
 .krzysztof:hover::before {
     content: "Chciałbym z całego serca wyrazić naszą głęboką wdzięczność i szacunek wobec Czcigodnego Pana Krzysztofa. Jego niezwykła łaskawość sprawiła, że możemy cieszyć się wyjątkowym miejscem spoczynku. Czcigodny Włodarz Krzysztof, przez swoją hojność i życzliwość, udostępnił nam swoje serce i przestrzeń, tworząc dla nas oazę spokoju i harmonii. Jego dobroć nie tylko dotknęła naszych serc, ale także ożywiła nasze wspólne doświadczenia. Dziękujemy, Krzysiu, za bezinteresowność, za twoją gościnność, która sprawiła, że nasze chwile odpoczynku staną się niezapomniane. Twoja hojność przekracza granice, a twoje dobre serce jest źródłem inspiracji dla nas wszystkich. Niech to miejsce spoczynku będzie świadectwem Twojej wielkoduszności i niech nasza wdzięczność będzie tchnieniem, które wraca do Ciebie z podwójną siłą. Dzięki Tobie, Krzysztofie, uczymy się, że piękno dzielenia się z innymi sprawia, że świat staje się lepszym miejscem. Dziękujemy, miłosierny Krzysztofie, za Twoją hojność, ciepło i nieoceniony dar serca. Z głębi serca.";
     width: 300px;
@@ -117,3 +118,4 @@
     z-index: 1;
   }
   
+

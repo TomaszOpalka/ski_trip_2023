@@ -57,7 +57,7 @@ function App() {
            <h1>Kłodzko 2023</h1>
            <ul>skład:
             <li className='krzysztof'>Włodarz Krzystof Sankowski</li>
-            <li>nażeczona włodarza Olivia</li>
+            <li>narzeczona włodarza Olivia</li>
             <li>Paulina</li>
             <li>Tomek</li>
             <li>Szymon Opałka</li>
